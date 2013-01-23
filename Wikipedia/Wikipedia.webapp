@@ -1,0 +1,13 @@
+{
+	"name":"Wikipedia",
+	"description":"Wikipedia Web-App",
+	"launch_path":"http://www.wikipedia.org/",
+	"icons": {
+		"128": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikipedia_logo_silver_wt.png/128px-Wikipedia_logo_silver_wt.png"
+	},
+	"developer":{
+		"name": "Sayak Sarkar",
+		"url": "http://sayaksarkar.wordpress.com"
+	},
+	"default_locale": "en"
+}
