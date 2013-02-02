@@ -1,0 +1,13 @@
+{
+	"name":"Mozilla Pune",
+	"description":"Mozilla Pune Web-App",
+	"launch_path":"http://pune.mozillaindia.org/",
+	"icons": {
+		"128": "https://assets.mozillalabs.com/Websites/Sandstone/Default%20Icons/moz-favicon-32x32.png"
+	},
+	"developer":{
+		"name": "Sayak Sarkar",
+		"url": "http://sayaksarkar.wordpress.com"
+	},
+	"default_locale": "en"
+}

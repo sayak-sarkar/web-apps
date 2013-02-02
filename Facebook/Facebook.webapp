@@ -1,0 +1,13 @@
+{
+	"name":"Facebook Mobile",
+	"description":"Facebook for mobile.",
+	"launch_path":"https://m.facebook.com/",
+	"icons": {
+		"128": "http://www.scheffelshideawaycampground.com/images/facebook%20logo.jpg"
+	},
+	"developer":{
+		"name": "Sayak Sarkar",
+		"url": "http://sayaksarkar.wordpress.com"
+	},
+	"default_locale": "en"
+}
